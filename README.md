@@ -1,10 +1,38 @@
-- 👋 Hi, I’m @lexxyofcofficical
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+}
 
-<!---
-lexxyofcofficical/lexxyofcofficical is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data all,only hack
+
+apt update
+
+apt upgrade
+
+apt install python2
+
+apt install python
+
+git clone https://github.com/
+
+pkg update & pkg upgrade
+
+pkg install mc
+
+pkg install imagemagick
+
+pkg install libwp
+
+pkg install nodejs
+
+pkg install git
+
+pkg install ffmpeg
+
+pkg install bash
+
+termux-setup-storage
+
+cd /sdcard
+
+cd newsc
+
+npm start
+
