@@ -10,7 +10,7 @@ apt install python2
 
 apt install python
 
-git clone https://github.com/
+git clone https://github.com/Din-zUgex95/style
 
 pkg update & pkg upgrade
 
@@ -36,3 +36,13 @@ cd newsc
 
 npm start
 
+Email: asrinahsiti95@gmail.com
+Email: hansecholshans@gmail.com
+Email: delpyelan90@gmail.com
+Email: delpyelan676@gmail.com
+Email: elanzeeone@gmail.com
+
+Facebook: iliyiah epinah
+Facebook: Cat Anima
+Facebook: Alima Exes
+Facebook: 
