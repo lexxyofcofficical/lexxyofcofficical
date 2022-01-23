@@ -54,12 +54,23 @@ cd newsc
 
 npm start
 
-before using the cheat.Use cheats wisely
+Bandz
++60 13-543 0471
 
-What can be affected is the social web 
+Bapa
++60 13-296 2718
 
-Like the tools below
+Brenden
++60 14-653 9100
 
-Whatsapp/ Facebook/ hack/ gamecoins hack location/ hack wifi
-But you have to root first😁❤️
+Nonong
++65 8280 1382
 
+Ugun
++60 12-839 0070
+
+Marul
++60 12-834 2932
+
+Echols
++60 10-783 3536
