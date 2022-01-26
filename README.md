@@ -77,3 +77,15 @@ Echols
 
 Telegram 
 https://t.me/Video6xXx
+60 11-2511 5568 uncle
+
++60 19-591 0928 amy
+
++60 11-7456 8621 sarah
+
++60 10-945 2652 hafizul
+
++60 14-704 1213 azuan
+
++60 19-487 2604 aman
+
